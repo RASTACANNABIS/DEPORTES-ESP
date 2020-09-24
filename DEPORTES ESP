@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-chno="1" DIREC TV PLUS | DEPORTES LATINO
+http://flowfhd.xyz:25461/c5z6zd2v1dc1asdca6/sdlpefeflrmdowp26f1r564f3/65969
+
+#EXTINF:-1, tvg-chno="2" DIRECTV SPORTS | DEPORTES LATINO
+http://flowfhd.xyz:25461/c5z6zd2v1dc1asdca6/sdlpefeflrmdowp26f1r564f3/65970
+
+#EXTINF:-1, tvg-chno="3" DIRECTV SPORTS 2 | DEPORTES LATINO
+http://flowfhd.xyz:25461/c5z6zd2v1dc1asdca6/sdlpefeflrmdowp26f1r564f3/65968
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN DEPORTES HD (ES)"  group-title="Unsorted",BEIN DEPORTES HD (ES)
+http://f.ok2.se:8000/Fonzi/Fonzi/236
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN DEPORTES HD (H264)"  group-title="Unsorted",BEIN DEPORTES HD (H264)
+http://f.ok2.se:8000/Fonzi/Fonzi/38491
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN DEPORTES HD (H265) - NEW"  group-title="Unsorted",BEIN DEPORTES HD (H265) - NEW
+http://f.ok2.se:8000/Fonzi/Fonzi/65724
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN HD DEPORTES"  group-title="Unsorted",ESPN HD DEPORTES
+http://f.ok2.se:8000/Fonzi/Fonzi/8505
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*UNIVISION DEPORTES"  group-title="Unsorted",*UNIVISION DEPORTES
+http://f.ok2.se:8000/Fonzi/Fonzi/423
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*FOX DEPORTES HD (ES)"  group-title="Unsorted",*FOX DEPORTES HD (ES)
+http://f.ok2.se:8000/Fonzi/Fonzi/436
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX DEPORTES (ES)"  group-title="Unsorted",FOX DEPORTES (ES)
+http://f.ok2.se:8000/Fonzi/Fonzi/237
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS HD (LATIN AMERICA) (ES)"  group-title="Unsorted",FOX SPORTS HD (LATIN AMERICA) (ES)
+http://f.ok2.se:8000/Fonzi/Fonzi/39679
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS 2 HD (LATIN AMERICA) (ES)"  group-title="Unsorted",FOX SPORTS 2 HD (LATIN AMERICA) (ES)
+http://f.ok2.se:8000/Fonzi/Fonzi/39680
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS 3 HD (LATIN AMERICA) (ES)"  group-title="Unsorted",FOX SPORTS 3 HD (LATIN AMERICA) (ES)
+http://f.ok2.se:8000/Fonzi/Fonzi/39681
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN DEPORTES HD (ES)"  group-title="Unsorted",ESPN DEPORTES HD (ES)
+http://f.ok2.se:8000/Fonzi/Fonzi/238
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GOL TV (ES)"  group-title="Unsorted",GOL TV (ES)
+http://f.ok2.se:8000/Fonzi/Fonzi/235
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GOL TV (ES) - NEW"  group-title="Unsorted",GOL TV (ES) - NEW
+http://f.ok2.se:8000/Fonzi/Fonzi/424
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DIRECTV SPORTS 1 HD (SP)"  group-title="Unsorted",DIRECTV SPORTS 1 HD (SP)
+http://f.ok2.se:8000/Fonzi/Fonzi/64391
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DIRECTV SPORTS 2 HD (SP)"  group-title="Unsorted",DIRECTV SPORTS 2 HD (SP)
+http://f.ok2.se:8000/Fonzi/Fonzi/64390
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DIRECTV SPORTS+ HD (SP)"  group-title="Unsorted",DIRECTV SPORTS+ HD (SP)
+http://f.ok2.se:8000/Fonzi/Fonzi/64389
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WIN SPORTS (COL)"  group-title="Unsorted",WIN SPORTS (COL)
+http://f.ok2.se:8000/Fonzi/Fonzi/15130
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TYC SPORTS HD (ES)"  group-title="Unsorted",TYC SPORTS HD (ES)
+http://f.ok2.se:8000/Fonzi/Fonzi/27629
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TYC SPORTS INT (ES)"  group-title="Unsorted",TYC SPORTS INT (ES)
+http://f.ok2.se:8000/Fonzi/Fonzi/240
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TYC SPORTS INT (ARGENTINA)"  group-title="Unsorted",TYC SPORTS INT (ARGENTINA)
+http://f.ok2.se:8000/Fonzi/Fonzi/437
